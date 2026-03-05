@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Muhammad%20Hussnain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20n8n%20Business%20Automation%20Specialist&descAlignY=58&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Muhammad%20Hussnain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Business%20Automation%20Specialist&descAlignY=58&descSize=15" width="100%"/>
 </p>
 
 <!-- TYPING HEADLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%2B+Automation+Expert;I+turn+business+problems+into+mobile+apps;I+automate+your+workflow+so+you+save+hours+daily;From+idea+to+live+app+in+7+days+%F0%9F%9A%80;Serving+clients+in+USA+%7C+UK+%7C+Canada+%7C+Australia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;I+automate+your+workflow+so+you+save+hours+daily;From+idea+to+live+app+in+7+days+%F0%9F%9A%80;Serving+clients+in+USA+%7C+UK+%7C+Canada+%7C+Australia" alt="Typing SVG" />
 </p>
 
 ---
