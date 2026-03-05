@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Muhammad%20Hussnain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20mobile%20apps%20that%20solve%20real%20business%20problems&descAlignY=58&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Muhammad%20Hussnain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20n8n%20Business%20Automation%20Specialist&descAlignY=58&descSize=15" width="100%"/>
 </p>
 
 <!-- TYPING HEADLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;From+idea+to+live+app+in+7+days+%F0%9F%9A%80;Serving+clients+in+USA+%7C+UK+%7C+Canada+%7C+Australia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;I+automate+your+workflow+so+you+save+hours+daily;From+idea+to+live+app+in+7+days+%F0%9F%9A%80;Serving+clients+in+USA+%7C+UK+%7C+Canada+%7C+Australia" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,107 +13,123 @@
 ## 🚨 Does any of this sound familiar?
 
 > *"I'm losing customers because I have no mobile app..."*
-> *"My team wastes hours on tasks that should be automatic..."*
-> *"I hired a developer before and waited 3 months for nothing..."*
+> *"My team wastes hours on tasks that could be automated..."*
+> *"I hired a developer before — waited months and got nothing..."*
+> *"My bookings are a mess — WhatsApp, calls, papers everywhere..."*
 
 **If yes — you're in the right place.**
 
 ---
 
-## 👋 I'm Muhammad Hussnain — I fix exactly these problems.
+## 👋 I'm Muhammad Hussnain
 
-I'm a **Flutter Developer & Business Automation Specialist** based in Pakistan,
-building mobile apps and n8n workflows for businesses.
+I'm a **Flutter Developer & n8n Business Automation Specialist** building mobile apps and automated workflows for businesses in.
 
-Here's what makes me different:
+I don't just build apps — I **automate the entire business process behind them** so your team stops doing manual work and starts focusing on growth.
 
-- 📱 I don't just write code — I **understand your business first**
-- ⚡ I ship **working apps in 7 days**, not 7 weeks
-- 🔄 I connect your app to **your entire business workflow** via n8n automation
-- 🤝 I communicate in **clear English**, daily updates, no ghosting
-- ✅ **5 production apps** shipped across e-commerce, healthcare, fuel, 3D marketplaces & lead automation
+- 📱 **5 production apps** shipped across multiple industries
+- ⚡ I deliver **working apps in 7 days**, not 7 weeks
+- 🔄 **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
+- 🤝 Clear English, daily updates, zero ghosting
 
 ---
 
-## 🏆 Problems I've Already Solved
+## 🏆 Real Problems I've Solved
+
+### 💈 Salon had no booking system → Built AutoLead
+> Customer visits app → selects service (haircut, color, etc.) → enters name, number, email → **n8n workflow fires instantly** → confirmation email sent automatically → data saved to Google Sheets → synced to Firebase → admin sees all appointments in dashboard → contacts client on WhatsApp in one tap.
+>
+> **Result:** Zero missed bookings. Zero manual data entry. Owner manages everything from a phone.
+
+---
 
 ### 🛒 Business had no mobile store → Built ShopFlow
-> A complete e-commerce app with product catalog, cart, checkout & real-time order tracking.
-> **Result:** Business now takes mobile orders 24/7 without a single staff member involved.
+> Full e-commerce app with product catalog, cart, checkout & real-time order tracking — built for businesses who were losing sales to competitors with apps.
+>
+> **Result:** Business now takes mobile orders 24/7 without any staff involvement.
 
 ---
 
-### 🏥 Clinic losing patients to no-shows → Built MediBook
-> Patients book appointments, get automated reminders, doctors manage their full schedule from their phone.
-> **Result:** Fewer empty slots, less phone call chaos, happier patients.
+### 🏥 Clinic losing revenue to no-shows → Built MediBook
+> Patients book appointments, receive automated reminders, doctors manage their full schedule from their phone — replacing phone calls and paper registers.
+>
+> **Result:** Fewer empty slots, less chaos, happier patients.
 
 ---
 
-### ⛽ Fleet owner had no way to track fuel costs → Built Fuco
-> Tracks fuel cost per trip, monthly/weekly/daily records, live petrol prices in Pakistan, Google Maps navigation.
-> **Result:** Owner can now see exactly where fuel budget is going — from their phone.
+### ⛽ Fleet owner couldn't track fuel costs → Built Fuco
+> Tracks fuel cost per trip, monthly/weekly/daily records, live petrol prices, Google Maps navigation — all from one app.
+>
+> **Result:** Owner now sees exactly where every rupee of fuel budget is going.
 
 ---
 
-### 🎨 3D artist couldn't sell models online → Built ShapeShift
-> A full 3D model marketplace with premium content, coin system, reward ads, 3D in-app viewer, inventory & search.
-> **Result:** Artist now has a fully monetized platform for his digital products.
+### 🎨 3D artist had no platform to sell models → Built ShapeShift
+> Full 3D model marketplace with premium content, coin system, reward ads, in-app 3D viewer, inventory, search & favorites.
+>
+> **Result:** Artist has a fully monetized digital product platform — built from scratch.
 
 ---
 
-### 🤖 Sales team was manually chasing leads → Built AutoLead
-> Flutter app + n8n automation that captures leads, qualifies them & notifies the team — zero human input.
-> **Result:** Lead response time dropped from hours to seconds.
+## ⚙️ n8n Automation Workflows I've Built
+
+> Beyond apps — I automate the entire business behind them.
+> Here are real workflows I've built and deployed:
+
+| Workflow | What It Does |
+|---|---|
+| 🤖 WhatsApp AI Agent | Answers customer questions on WhatsApp automatically |
+| 📧 Gmail Labeling | Auto-sorts and labels emails using AI |
+| 📅 Calendar Automation | Books and manages appointments without human input |
+| 🏠 Real Estate Agent | Qualifies leads and sends property info automatically |
+| 📱 Social Media Automation | Auto-posts and schedules content across platforms |
+| 🎙️ Audio Transcribe + Summarize | Converts voice recordings to summaries automatically |
+| 💬 Customer Feedback Agent | Collects, categorizes and responds to feedback via AI |
+| 🌦️ OpenWeatherMap Flow | Fetches live weather data and triggers alerts |
+
+> 📂 **[View all workflows →](https://github.com/MuhammadHussnain07/n8n-automation-workflows)**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHussnain07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHussnain07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHussnain07&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+## 💬 What Working With Me Looks Like
+✅ App delivered in 7 days — or I work free until it's done
+✅ Daily progress updates — you always know what's happening
+✅ n8n automation built-in — your app works while you sleep
+✅ Clean code + full documentation — no black-box handoffs
+✅ Post-delivery support — I don't disappear after payment
+✅ Honest advice — I'll tell you what you need, not just what you ask
 
 ---
 
 ## 📩 Ready to Build Something?
 
-> 💡 Tell me your problem in one sentence.
-> I'll tell you exactly how I'd solve it — **for free, no obligation.**
+> 💡 Tell me your business problem in one sentence.
+> I'll tell you exactly how I'd solve it — **free, no obligation.**
 
 <p align="left">
-  <a href="mailto:your@email.com">
+  <a href="mailto:muhammadhussnain0193@gmail.com.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOURPROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/YOURPROFILE">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://www.fiverr.com/YOURPROFILE">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </p>
 
