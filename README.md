@@ -113,12 +113,12 @@ I don't just build apps — I **automate the entire business process behind them
 ---
 
 ## 💬 What Working With Me Looks Like
-✅ App delivered in 7 days — or I work free until it's done
-✅ Daily progress updates — you always know what's happening
-✅ n8n automation built-in — your app works while you sleep
-✅ Clean code + full documentation — no black-box handoffs
-✅ Post-delivery support — I don't disappear after payment
-✅ Honest advice — I'll tell you what you need, not just what you ask
+*"✅ App delivered in 7 days — or I work free until it's done*"
+*"✅ Daily progress updates — you always know what's happening*"
+*"✅ n8n automation built-in — your app works while you sleep*"
+*"✅ Clean code + full documentation — no black-box handoffs*"
+*"✅ Post-delivery support — I don't disappear after payment*"
+*"✅ Honest advice — I'll tell you what you need, not just what you ask*"
 
 ---
 
