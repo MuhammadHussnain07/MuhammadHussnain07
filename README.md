@@ -27,10 +27,10 @@ I'm a **Flutter Developer & n8n Business Automation Specialist** building mobile
 
 I don't just build apps — I **automate the entire business process behind them** so your team stops doing manual work and starts focusing on growth.
 
-- 📱 **5 production apps** shipped across multiple industries
+- 📱 **production ready apps** shipped across multiple industries
 - ⚡ I deliver **working apps in 7 days**, not 7 weeks
 - 🔄 **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
-- 🤝 Clear English, daily updates, zero ghosting
+- 🤝 Clear communication, daily updates, zero ghosting
 
 ---
 
