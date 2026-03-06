@@ -124,8 +124,15 @@ I don't just build apps — I **automate the entire business process behind them
 
 ## 📩 Ready to Build Something?
 
+> ### 💼 Hire Me
+> 
 > 💡 Tell me your business problem in one sentence.
 > I'll tell you exactly how I'd solve it — **free, no obligation.**
+
+📧 **muhammadhussnain0193@gmail.com**
+🔗 **[GitHub Portfolio](https://github.com/MuhammadHussnain07)**
+
+---
 
 <p align="left">
   <a href="mailto:muhammadhussnain0193@gmail.com.com">
