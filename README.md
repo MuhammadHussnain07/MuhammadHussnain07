@@ -86,9 +86,6 @@ I don't just build apps — I **automate the entire business process behind them
 | 🎙️ Audio Transcribe + Summarize | Converts voice recordings to summaries automatically |
 | 💬 Customer Feedback Agent | Collects, categorizes and responds to feedback via AI |
 | 🌦️ OpenWeatherMap Flow | Fetches live weather data and triggers alerts |
-
-> 📂 **[View all workflows →](https://github.com/MuhammadHussnain07/n8n-automation-workflows)**
-
 ---
 
 ## 🛠️ Tech Stack
