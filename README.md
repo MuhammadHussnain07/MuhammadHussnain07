@@ -54,7 +54,7 @@ Status   : Available for International Projects
 
 ---
 
-##  Real Problems I've Solved
+## Real Problems I've Solved
 
 ### 💈 Salon had no booking system → Built AutoLead
 
@@ -80,7 +80,7 @@ Status   : Available for International Projects
 
 ---
 
-### ⛽ Fleet owner couldn't track fuel costs → Built Fuco &nbsp; [![Play Store](https://play.google.com/store/apps/details?id=com.ainigmagames.Fuco)
+### ⛽ Fleet owner couldn't track fuel costs → Built Fuco &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ainigmagames.Fuco)
 
 > Tracks fuel cost per trip, monthly/weekly/daily records, live petrol prices, Google Maps navigation — all from one app.
 >
@@ -88,7 +88,7 @@ Status   : Available for International Projects
 
 ---
 
-### 🎨 3D artist had no platform to sell models → Built ShapeShift &nbsp; [![Play Store](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
+### 🎨 3D artist had no platform to sell models → Built ShapeShift &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
 
 > Full 3D model marketplace with premium content, coin system, reward ads, in-app 3D viewer, inventory, search & favorites.
 >
@@ -115,57 +115,25 @@ Status   : Available for International Projects
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### 🔥 Backend & APIs
-<p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</p>
-
-### ⚙️ Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-### 🎨 Design
-<p align="left">
   <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🤖 AI Tools & IDEs
-<p align="left">
   <img src="https://img.shields.io/badge/Antigravity%20IDE-0F2027?style=for-the-badge&logo=visualstudiocode&logoColor=00C9FF"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white"/>
-</p>
-
-### 🗂️ Version Control
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHussnain07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=MuhammadHussnain07&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHussnain07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 ---
@@ -183,7 +151,7 @@ Status   : Available for International Projects
 
 ---
 
-## Ready to Build Something?
+## 📩 Ready to Build Something?
 
 > **Tell me your business problem in one sentence.**
 > I'll tell you exactly how I'd solve it — **free, no obligation.**
