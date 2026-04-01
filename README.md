@@ -46,11 +46,11 @@ Role        : Flutter Developer + n8n Business Automation Specialist
 Location    : Rawalpindi, Pakistan 🇵🇰
 Degree      : BSc Software Engineering — NUML University, Islamabad
 Availability: Open for International Projects (EST / PST / GMT friendly)
-Response    : Within 4 hours 
+Response    : Within 12 hours 
 ```
 
 -  **2 apps live on Play Store** — production-shipped, real users
--  **Working app delivered in 7 days** — or I work free until it's done
+-  **Working app delivered in 14 days** — or I work free until it's done
 -  **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
 -  **ROI-focused delivery** — every app I build is designed to save time or increase revenue
 -  **Daily updates, zero ghosting** — you always know what's happening
@@ -158,7 +158,7 @@ Response    : Within 4 hours
 
 | What You Get | What You Won't Experience |
 |---|---|
-| Working app in 7 days — or I work free | Waiting months with zero updates |
+| Working app in 14 days — or I work free | Waiting months with zero updates |
 | Daily progress updates — always know the status | Ghosting after payment |
 | n8n automation built-in from Day 1 | Manual work still eating your team's time |
 | Clean code + full documentation | Black-box code you can't maintain or hand off |
