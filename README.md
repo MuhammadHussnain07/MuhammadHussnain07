@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;Working+app+delivered+in+7+days;Serving+USA+%7C+UK+%7C+Canada+%7C+UAE;2+Apps+Live+on+Play+Store+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;Working+app+delivered+in+14+days;Serving+USA+%7C+UK+%7C+Canada+%7C+UAE;2+Apps+Live+on+Play+Store+" alt="Typing SVG" />
 </p>
 
 ---
