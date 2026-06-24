@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/muhammadhussnain07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://muhammadhussnainportfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
   <a href="mailto:muhammadhussnain0193@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -36,21 +33,18 @@
 
 ## About Me
 
-I'm a **Flutter Developer & n8n Business Automation Specialist** building production-ready mobile apps and automated business workflows for **US, UK, Canadian, and UAE clients**.
+I'm a **Flutter Developer & n8n Business Automation Specialist** building production-ready mobile apps and automated business workflows.
 
 I don't just build apps — I **automate the entire business operation behind them**, so your team stops wasting time on manual tasks and starts focusing on revenue.
 
 ```yaml
 Name        : Muhammad Hussnain
-Role        : Flutter Developer + n8n Business Automation Specialist
+Role        : Flutter Developer + Business Automation Specialist
 Location    : Rawalpindi, Pakistan 🇵🇰
 Degree      : BSc Software Engineering — NUML University, Islamabad
-Availability: Open for International Projects (EST / PST / GMT friendly)
-Response    : Within 12 hours 
 ```
 
 -  **2 apps live on Play Store** — production-shipped, real users
--  **Working app delivered in 14 days** — or I work free until it's done
 -  **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
 -  **ROI-focused delivery** — every app I build is designed to save time or increase revenue
 -  **Daily updates, zero ghosting** — you always know what's happening
@@ -101,7 +95,7 @@ Response    : Within 12 hours
 
 ---
 
-### 🎨 3D artist had no platform to sell models → Built ShapeShift &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
+### 🎨 3D artist had no platform to sell models → Built FoldCraft-3D &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
 
 > **The Problem:** Independent 3D artist creating premium models with no way to sell or monetize them outside of crowded generic platforms.
 >
@@ -165,18 +159,6 @@ Response    : Within 12 hours
 | Post-delivery support included | Disappearing the moment the job is done |
 | Honest advice on what you actually need | Being sold features you don't need |
 | EST / PST / GMT timezone — available for calls | Impossible scheduling across time zones |
-
----
-
-## 🌍 Currently Serving Clients In
-
-<p align="left">
-  <img src="https://img.shields.io/badge/🇺🇸%20USA-Available-0A3161?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🇬🇧%20UK-Available-012169?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🇨🇦%20Canada-Available-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🇦🇪%20UAE-Available-00732F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌐%20Worldwide-Available-2C5364?style=for-the-badge"/>
-</p>
 
 ---
 
