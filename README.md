@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Hussnain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20n8n%20Business%20Automation%20Specialist&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Hussnain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Business%20Automation%20Specialist&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,25 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%2B+n8n+Automation+Expert;I+turn+business+problems+into+mobile+apps;Working+app+delivered+in+14+days;Serving+USA+%7C+UK+%7C+Canada+%7C+UAE;2+Apps+Live+on+Play+Store+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%2B+Business+Automation+Expert;I+turn+business+problems+into+mobile+apps;Working+app+delivered+in+14+days;Serving+USA+%7C+UK+%7C+Canada+%7C+UAE;2+Apps+Live+on+Play+Store+" alt="Typing SVG" />
 </p>
-
----
-
-## Does any of this sound familiar?
-
-> *"I'm losing customers because I have no mobile app..."*
-> *"My team wastes hours every week on tasks that could be automated..."*
-> *"I hired a developer before — waited months and got nothing..."*
-> *"My bookings are a mess — WhatsApp, calls, sticky notes everywhere..."*
-
-**If yes — you're in the right place.**
 
 ---
 
 ## About Me
 
-I'm a **Flutter Developer & n8n Business Automation Specialist** building production-ready mobile apps and automated business workflows.
+I'm a **Flutter Developer & Business Automation Specialist** building production-ready mobile apps and automated business workflows.
 
 I don't just build apps — I **automate the entire business operation behind them**, so your team stops wasting time on manual tasks and starts focusing on revenue.
 
@@ -47,8 +36,7 @@ Degree      : BSc Software Engineering — NUML University, Islamabad
 -  **2 apps live on Play Store** — production-shipped, real users
 -  **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
 -  **ROI-focused delivery** — every app I build is designed to save time or increase revenue
--  **Daily updates, zero ghosting** — you always know what's happening
-
+-  
 ---
 
 ##  Real Problems I've Solved
@@ -130,20 +118,26 @@ Degree      : BSc Software Engineering — NUML University, Islamabad
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Auth-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Storage-FFA000?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity%20IDE-0F2027?style=for-the-badge&logo=visualstudiocode&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-0F2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ---
@@ -165,7 +159,7 @@ Degree      : BSc Software Engineering — NUML University, Islamabad
 ## 📩 Ready to Build Something?
 
 > **Tell me your business problem in one sentence.**
-> I'll tell you exactly how I'd solve it — **free, no obligation, no sales pitch.**
+> I'll tell you exactly how I'd solve it — **free, no obligation.**
 
 <p align="left">
   <a href="mailto:muhammadhussnain0193@gmail.com">
