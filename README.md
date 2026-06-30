@@ -174,17 +174,6 @@ University  : NUML University Islamabad
 
 ---
 
-# 🚀 Current Focus
-
-- Production Flutter Applications
-- Clean Architecture
-- Firebase Ecosystem
-- n8n Business Automation
-- Mobile Performance Optimization
-- AI-assisted Development
-
----
-
 # 📫 Let's Connect
 
 <p align="center">
