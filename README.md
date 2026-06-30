@@ -1,43 +1,52 @@
 <!-- HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Hussnain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Business%20Automation%20Specialist&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Hussnain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20Engineer%20•%20Automation%20Builder&descAlignY=58&descSize=16"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadhussnain07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammadhussnain0193@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Available-2ea44f?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHussnain07&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
+
+<a href="https://muhammadhussnainportfolio.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadhussnain07/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadhussnain0193@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full--Time%20Flutter%20Roles-2ea44f?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain07&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%2B+Business+Automation+Expert;I+turn+business+problems+into+mobile+apps;Working+app+delivered+in+14+days;Serving+USA+%7C+UK+%7C+Canada+%7C+UAE;2+Apps+Live+on+Play+Store+" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Building+Production+Mobile+Applications;Firebase+%7C+Clean+Architecture+%7C+n8n;Shipping+Apps+That+Solve+Real+Business+Problems"/>
+
 </p>
 
----
 
 ## About Me
 
-I'm a **Flutter Developer & Business Automation Specialist** building production-ready mobile apps and automated business workflows.
+I'm **Muhammad Hussnain**, a Flutter Developer based in Pakistan who enjoys building production-ready mobile applications and the automation that powers them.
 
-I don't just build apps — I **automate the entire business operation behind them**, so your team stops wasting time on manual tasks and starts focusing on revenue.
+Over the past year, I've developed and deployed Flutter applications across healthcare, logistics, e-commerce, and digital marketplaces. Alongside mobile development, I build **n8n automation workflows** that eliminate repetitive business tasks such as bookings, reminders, lead management, reporting, and notifications.
+
+I'm passionate about writing clean, maintainable code, designing scalable architectures, and building software that delivers measurable value to users and businesses.
 
 ```yaml
 Name        : Muhammad Hussnain
-Role        : Flutter Developer + Business Automation Specialist
+Role        : Flutter Developer
+Speciality  : Mobile Apps + Business Automation
 Location    : Rawalpindi, Pakistan 🇵🇰
-Degree      : BSc Software Engineering — NUML University, Islamabad
+Degree      : BSc Software Engineering
+University  : NUML University Islamabad
 ```
-
--  **2 apps live on Play Store** — production-shipped, real users
--  **n8n automation** — leads, bookings, emails, Google Sheets, WhatsApp — all on autopilot
--  **ROI-focused delivery** — every app I build is designed to save time or increase revenue
--  
----
 
 ##  Real Problems I've Solved
 
@@ -142,32 +151,68 @@ Degree      : BSc Software Engineering — NUML University, Islamabad
 
 ---
 
-## 💬 What Working With Me Looks Like
+# 💻 Development Environment
 
-| What You Get | What You Won't Experience |
-|---|---|
-| Working app in 14 days — or I work free | Waiting months with zero updates |
-| Daily progress updates — always know the status | Ghosting after payment |
-| n8n automation built-in from Day 1 | Manual work still eating your team's time |
-| Clean code + full documentation | Black-box code you can't maintain or hand off |
-| Post-delivery support included | Disappearing the moment the job is done |
-| Honest advice on what you actually need | Being sold features you don't need |
-| EST / PST / GMT timezone — available for calls | Impossible scheduling across time zones |
+| Category | Tools |
+|----------|-------|
+| IDE | VS Code • Android Studio • Antigravity IDE |
+| UI Design | Google Stitch • Figma |
+| AI | ChatGPT • Claude • Perplexity Pro • OpenCode |
+| Automation | n8n |
+| Version Control | Git • GitHub |
 
 ---
 
-## 📩 Ready to Build Something?
+# 🧠 Engineering Principles
 
-> **Tell me your business problem in one sentence.**
-> I'll tell you exactly how I'd solve it — **free, no obligation.**
+- Write clean, maintainable and scalable code.
+- Build reusable components instead of duplicated logic.
+- Optimize for performance before adding complexity.
+- Keep architecture simple and easy to extend.
+- Automate repetitive tasks whenever possible.
+- Focus on solving business problems, not just shipping features.
 
-<p align="left">
-  <a href="mailto:muhammadhussnain0193@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadhussnain07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+---
+
+# 🚀 Current Focus
+
+- Production Flutter Applications
+- Clean Architecture
+- Firebase Ecosystem
+- n8n Business Automation
+- Mobile Performance Optimization
+- AI-assisted Development
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://muhammadhussnainportfolio.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadhussnain07/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadhussnain0193@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MuhammadHussnain07" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me or connecting on LinkedIn.
+
 </p>
 
 <!-- FOOTER -->
