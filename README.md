@@ -33,7 +33,7 @@
 
 ## About Me
 
-I'm **Muhammad Hussnain**, a Flutter Developer based in Pakistan who enjoys building production-ready mobile applications and the automation that powers them.
+I'm **Muhammad Hussnain**, a Flutter Developer and business automation expert based in Pakistan who enjoys building production-ready mobile applications and the automation that powers them.
 
 Over the past 3+ years, I've developed and deployed Flutter applications across healthcare, logistics, e-commerce, and digital marketplaces. Alongside mobile development, I build **n8n automation workflows** that eliminate repetitive business tasks such as bookings, reminders, lead management, reporting, and notifications.
 
@@ -198,7 +198,7 @@ University  : NUML University Islamabad
 
 <p align="center">
 
- Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 If you like my work, consider following me or connecting on LinkedIn.
 
