@@ -35,7 +35,7 @@
 
 I'm **Muhammad Hussnain**, a Flutter Developer based in Pakistan who enjoys building production-ready mobile applications and the automation that powers them.
 
-Over the past year, I've developed and deployed Flutter applications across healthcare, logistics, e-commerce, and digital marketplaces. Alongside mobile development, I build **n8n automation workflows** that eliminate repetitive business tasks such as bookings, reminders, lead management, reporting, and notifications.
+Over the past 3+ years, I've developed and deployed Flutter applications across healthcare, logistics, e-commerce, and digital marketplaces. Alongside mobile development, I build **n8n automation workflows** that eliminate repetitive business tasks such as bookings, reminders, lead management, reporting, and notifications.
 
 I'm passionate about writing clean, maintainable code, designing scalable architectures, and building software that delivers measurable value to users and businesses.
 
@@ -52,7 +52,7 @@ University  : NUML University Islamabad
 
 ---
 
-### 💈 Salon had no booking system → Built AutoLead
+###  Salon had no booking system → Built AutoLead
 
 > **The Problem:** Owner was managing all appointments on WhatsApp. Missing bookings daily. No record of customer history. Staff spending 2+ hours a day on manual coordination.
 >
@@ -62,7 +62,7 @@ University  : NUML University Islamabad
 
 ---
 
-### 🛒 Business had no mobile store → Built ShopFlow
+###  Business had no mobile store → Built ShopFlow
 
 > **The Problem:** Local business was losing sales to competitors who had apps. No way to take mobile orders. Staff manually handling every inquiry via WhatsApp.
 >
@@ -72,7 +72,7 @@ University  : NUML University Islamabad
 
 ---
 
-### 🏥 Clinic losing revenue to no-shows → Built MediBook
+###  Clinic losing revenue to no-shows → Built MediBook
 
 > **The Problem:** Clinic was losing 30%+ of appointment revenue to no-shows. Staff spending hours on phone calls for reminders. Paper registers impossible to search or track.
 >
@@ -82,7 +82,7 @@ University  : NUML University Islamabad
 
 ---
 
-### ⛽ Fleet owner couldn't track fuel costs → Built Fuco &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ainigmagames.Fuco)
+###  Fleet owner couldn't track fuel costs → Built Fuco &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ainigmagames.Fuco)
 
 > **The Problem:** Fleet owner had no visibility into where fuel budget was going. Drivers self-reporting on paper. Impossible to detect waste or theft.
 >
@@ -92,7 +92,7 @@ University  : NUML University Islamabad
 
 ---
 
-### 🎨 3D artist had no platform to sell models → Built FoldCraft-3D &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
+###  3D artist had no platform to sell models → Built FoldCraft-3D &nbsp; [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.enigma4d.crafthub3d)
 
 > **The Problem:** Independent 3D artist creating premium models with no way to sell or monetize them outside of crowded generic platforms.
 >
@@ -102,7 +102,7 @@ University  : NUML University Islamabad
 
 ---
 
-## ⚙️ n8n Automation Workflows I've Built
+##  n8n Automation Workflows I've Built
 
 > Beyond apps — I automate the entire business operation behind them.
 > Every workflow below has been built and deployed for real use cases.
