@@ -109,14 +109,14 @@ University  : NUML University Islamabad
 
 | Workflow | What It Does |
 |---|---|
-| 🤖 WhatsApp AI Agent | Answers customer questions on WhatsApp 24/7 automatically |
-| 📧 Gmail AI Labeling | Auto-sorts and labels emails using AI — zero inbox chaos |
-| 📅 Calendar Automation | Books and manages appointments without any human input |
-| 🏠 Real Estate Lead Agent | Qualifies leads automatically, sends property info instantly |
-| 📱 Social Media Automation | Auto-posts and schedules content across all platforms |
-| 🎙️ Audio Transcribe + Summarize | Converts voice recordings to written summaries automatically |
-| 💬 Customer Feedback Agent | Collects, categorizes and responds to feedback via AI |
-| 🌦️ Weather Alert Flow | Fetches live weather data and triggers business alerts |
+|  WhatsApp AI Agent | Answers customer questions on WhatsApp 24/7 automatically |
+|  Gmail AI Labeling | Auto-sorts and labels emails using AI — zero inbox chaos |
+|  Calendar Automation | Books and manages appointments without any human input |
+|  Real Estate Lead Agent | Qualifies leads automatically, sends property info instantly |
+|  Social Media Automation | Auto-posts and schedules content across all platforms |
+|  Audio Transcribe + Summarize | Converts voice recordings to written summaries automatically |
+|  Customer Feedback Agent | Collects, categorizes and responds to feedback via AI |
+|  Weather Alert Flow | Fetches live weather data and triggers business alerts |
 
 ---
 
@@ -151,7 +151,7 @@ University  : NUML University Islamabad
 
 ---
 
-# 💻 Development Environment
+#  Development Environment
 
 | Category | Tools |
 |----------|-------|
@@ -163,7 +163,7 @@ University  : NUML University Islamabad
 
 ---
 
-# 🧠 Engineering Principles
+#  Engineering Principles
 
 - Write clean, maintainable and scalable code.
 - Build reusable components instead of duplicated logic.
@@ -174,7 +174,7 @@ University  : NUML University Islamabad
 
 ---
 
-# 📫 Let's Connect
+#  Let's Connect
 
 <p align="center">
 
@@ -198,7 +198,7 @@ University  : NUML University Islamabad
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 If you like my work, consider following me or connecting on LinkedIn.
 
