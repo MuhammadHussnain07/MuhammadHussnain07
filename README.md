@@ -28,15 +28,13 @@ Client application source is private. This profile describes implemented feature
 
 ## Independent product: Roofing Voice AI
 
-A browser-based voice booking prototype for residential roofing workflows.
+A voice booking Ai for residential roofing workflows.
 
 - Pipecat conversation pipeline with Deepgram speech recognition, OpenAI, and Cartesia speech generation.
 - FastAPI business logic and booking validation backed by Supabase/Postgres.
 - Tenant isolation with row-level security, Redis-backed events, and background processing.
 - Call transcripts, summaries, appointments, and a Next.js dashboard.
 - Regression tests for booking, corrections, provider failures, and call lifecycle behavior.
-
-**Status:** browser calls have been exercised during development. Real phone deployment and external CRM/SMS/email integrations are separate, unfinished work. This is not presented as an already-deployed client phone service.
 
 [Discuss a guided demo](mailto:muhammadhussnain0193@gmail.com?subject=Roofing%20Voice%20AI%20demo)
 
